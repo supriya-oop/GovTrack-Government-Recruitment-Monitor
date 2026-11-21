@@ -1,0 +1,6 @@
+{
+  "name": "GovTrack — Government Recruitment Notification Monitor",
+  "description": "Intelligent government recruitment and examination notification change monitoring system across official Indian portals with structured extraction, versioned change history, personalized tracking, and automated freshness monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
